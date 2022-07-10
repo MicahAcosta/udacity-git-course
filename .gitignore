@@ -1,6 +1,11 @@
 #project.docx
 .DS_Store
 .github/**
+<<<<<<< HEAD
 project.docx
 ~$roject.docx
 .gitignore
+||||||| da86de8
+=======
+~$roject.docx
+>>>>>>> sidebar
